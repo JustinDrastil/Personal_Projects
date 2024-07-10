@@ -2,8 +2,9 @@
 Repository for projects that seem interesting and want to try and implement.
 
 ## Project 1: Huffman Coding
-1. read a pdf
-2. calculate letter frequency
-3. make priority queue
-4. make Huffman tree
-5. 
+1. Calculate frequencies and build Huffman tree
+2. Generate Huffman codes
+3. Print Huffman codes
+4. Encode the input file
+5. Decode the encoded file
+6. Free the Huffman tree
