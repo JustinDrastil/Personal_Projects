@@ -236,8 +236,8 @@ int main(int argc, char *argv[]) {
     printCodes(codes);
 
     // Step 4: Print Huffman tree structure
-    printf("\nHuffman Tree Structure:\n");
-    printTree(root);
+    //    printf("\nHuffman Tree Structure:\n");
+    //    printTree(root);
 
     // Step 5: Encode the input file
     rewind(file);
